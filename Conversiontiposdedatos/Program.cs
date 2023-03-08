@@ -16,7 +16,7 @@ namespace Conversiontiposdedatos
              * bool.parse para convertir lo que viene de string a bool o el tipo de variable que pida.
              * convert.ToInt32(Console.Readline()); otra forma de convertirlo a int con convert
              
-
+            */
             String Nombre;
             int Edad;
             bool Casado;
@@ -35,7 +35,7 @@ namespace Conversiontiposdedatos
             Sueldo = double.Parse(Console.ReadLine());
 
             Console.ReadKey();
-            */
+            
         }
     }
 }
