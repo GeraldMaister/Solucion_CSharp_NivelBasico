@@ -28,7 +28,7 @@ namespace CondicionIF
 
                }
 
-             
+             */
 
             String Nombre;
             double Sueldo;
@@ -60,7 +60,7 @@ namespace CondicionIF
 
 
             Console.ReadKey();
-            */
+            
 
 
         }
